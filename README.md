@@ -54,4 +54,4 @@
 
 效果图：
 
-![check](C:\Users\Administrator\Desktop\threeCheckBox\check.png)
+![check](https://github.com/guoxiaxia/threeCheckBox/blob/master/check.png)
